@@ -227,13 +227,7 @@ export const allTools: ToolDefinition[] = [  {
         "x",
         "y",
         "width",
-        "height",
-        "r",
-        "g",
-        "b",
-        "r",
-        "g",
-        "b"
+        "height"
       ]
     }
   },
@@ -786,8 +780,7 @@ export const allTools: ToolDefinition[] = [  {
       },
       "required": [
         "text",
-        "nodeId",
-        "text"
+        "nodeId"
       ]
     }
   },
